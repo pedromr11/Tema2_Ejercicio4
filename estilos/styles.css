@@ -1,0 +1,49 @@
+header, aside, main, footer {
+    border: 1px solid black;
+}
+
+#container{
+    border: black 1px solid;
+}
+
+header{
+    text-align: center;
+    padding: 50px;
+}
+
+section{
+    border: 1px solid black;
+    padding-top: 70px;
+    padding-bottom: 70px;    
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 100px;
+    text-align: center;
+    
+    
+    
+}
+
+main {
+    position: relative;
+    text-align: center;
+    width: 1000px;
+    height: 800px;
+    float: right;
+    
+}
+
+
+footer{
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 20px;
+    margin-top: 42%;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+}
