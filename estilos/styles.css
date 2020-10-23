@@ -1,49 +1,65 @@
 header, aside, main, footer {
     border: 1px solid black;
+    margin-left: 20%;
+    margin-right: 20%;
 }
-
+    
 #container{
     border: black 1px solid;
+    height: 1060%;
 }
-
+    
 header{
     text-align: center;
-    padding: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    padding-left: 9%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-right: 9%;
 }
-
-section{
-    border: 1px solid black;
-    padding-top: 70px;
-    padding-bottom: 70px;    
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: 30px;
-    margin-bottom: 50px;
-    margin-left: 20px;
-    margin-right: 20px;
-    width: 100px;
-    text-align: center;
     
-    
-    
-}
-
-main {
-    position: relative;
-    text-align: center;
-    width: 1000px;
-    height: 800px;
-    float: right;
-    
-}
-
-
 footer{
     text-align: center;
-    padding: 30px;
-    margin-bottom: 20px;
-    margin-top: 42%;
-    position: relative;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 37%;
+    margin-bottom: 1%;
+    padding-left: 9%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-right: 9%;
+}
+    
+    
+    
+section{
+    border: solid 1px black;
+    margin-left: 19%;
+    margin-right: 7%;
+    margin-top: 20%;
+    padding-left: 9%;
+    padding-top: 7%;
+    padding-bottom: 2%;
+    padding-right: 10%;
+}
+    
+main{
+    margin-right: 20%;
+    float: right;
+    margin-top: 2%;
+    padding: 10%;
+    align-items: center;
+}
+    
+aside {
+    float: left;
+    margin-left: 5%;
+    margin-right: 7%;
+    margin-top: 2%;
+    padding-left: 9%;
+    padding-top: 7%;
+    padding-bottom: 2%;
+    padding-right: 10%;
 }
